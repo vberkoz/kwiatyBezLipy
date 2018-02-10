@@ -1,0 +1,24 @@
+
+@media only screen and (max-width: 1024px) {
+    .masonry {
+        column-count: 3 !important;
+        /* padding: 0 !important; */
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .masonry {
+        column-count: 2 !important;
+        /* padding: 0 !important; */
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .masonry {
+        column-count: 1 !important;
+        /* padding: 0 !important; */
+    }
+}
+
+@media only screen and (max-width: 320px) {
+}
