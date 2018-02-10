@@ -77,8 +77,9 @@
                 <div class="col-md-12 paragraph montserrat">
                     Kristiana Gankevycz<br>
                     Warszawa, Polska<br>
-                    EMAIL: kwiatybezlipy@gmail.com<br>
-                    PHONE: 415.758.0770<br>
+                    UL. Przasnyska 9 lok. U1<br>
+                    kwiatybezlipy@gmail.com<br>
+                    +48.601.627.162<br>
                 </div>
 
                 <!-- <form class="montserrat" method="post" action="send_mail.php">
